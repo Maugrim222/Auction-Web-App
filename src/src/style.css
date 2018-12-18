@@ -1,0 +1,35 @@
+
+#auction {
+  background-image: url("assets/mainback4.png");
+  background-size: 100%;
+}
+
+#OverviewButton {
+  margin-right: 10%;
+  margin-left: 5%
+}
+
+#UserButton {
+  margin-right: 10%;
+  margin-left: 5%
+}
+
+#LogRegButton {
+  margin-right: 0%
+}
+
+#mainTable {
+  margin-left: 20%;
+  /*margin: auto;*/
+  width: 100% !important;
+}
+
+.customMargin {
+  margin: 50%;
+}
+
+#imageDiv{ width: 100%; height: 297px;  overflow: hidden; /*border: 5px #ff0000 solid;*/}
+
+#imageDiv2{
+  width: 70%; height: 300px;  overflow: hidden; /*border: 5px #ff0000 solid*/;
+}
